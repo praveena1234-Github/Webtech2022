@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<HTML>
+    <head>
+        <style>
+            p.text{
+                font-weight: bold;
+                font-size: 20px;
+            }
+         h1 {
+                text-align: center;
+            }
+        #right{    
+                float: right;  
+            }  
+            table {
+                font-family: arial, sans-serif;
+                border-collapse: collapse;
+                width: 50%;
+            }
+
+            td, th {
+                border: 1px solid #dddddd;
+                text-align: left;
+                padding: 8px;
+            }
+        </style>
+        <title>Praveena's Resume</title>
+      </head>
+      <body>
+      
+      <h1>My Resume Page</h1>
+      <div id="right">
+        <img src="C:\Users\Praveena\Desktop\My photos\Praveena's photo.jpeg" width='200' height='250' >
+    </div>
+      <p class="text">S.PRAVEENA
+        <br>354E,
+        <br>Kambar Cross st
+        <br>Vinayagar Nagar,Pasumalai
+        <br>Ph: 6374478362
+        <br>Email: praveenas6902@gmail.com
+      </p>
+      <a href="https://www.linkedin.com/feed/">Visit My linkedin</a>
+      <a href="https://mail.google.com/mail/u/1/#inbox">My Mail</a>
+      <a href="https://www.w3schools.com">Email Me</a>
+      <img src="C:\Users\Praveena\Desktop\My photos\Linked in.jpg" width='100' height='50' >
+      <img src="C:\Users\Praveena\Desktop\My photos\Mail.png" width='100' height='50' >
+      <img src="C:\Users\Praveena\Desktop\My photos\Insta.jpg" width='100' height='50' >
+      <h3>Career Objective</h3>
+      <p>Hardworking and Passionate job seeker with strong organizational skills eager to secure entry-level job related to my skills as mentioned below.Ready to help team achieve company goals.</p>
+
+      <h3>Academic Profile</h3>
+      <table>
+        <tr>
+          <th>     </th>
+          <th>School/College</th>
+          <th>Borad/University</th>
+          <th>Percentage of Marks</th>
+          <th>year of Passing</th>
+        </tr>
+        <tr>
+          <td>Btech</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>HSC</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>SSLC</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+      </table>
+      <h3>Technical Skills:</h3>
+      <ol>
+        <li>API design</li>
+        <li>Programming languages(C,C++,HTML,Python,JavaScript,CSS,NodeJs)</li>
+        <li>web Technology</li>
+        <li>MS Office</li>
+        <li>Data Entry</li>
+        <li>Cloud Computing</li>
+        <li>Cyber Security</li>
+        <li>Angular Screens Developing</li>
+        <li>Block Chain(Bitcoin)</li>
+      </ol>
+      <h3>Advanced Technology Skills</h3>
+      <ul>
+        <li>Data science</li>
+        <li>API design</li>
+        <li>Artificial Intelligence</li>
+        <li>SAP(Sales and Distribution)</li>
+      </ul>
+      <p>
+        <h3>Languages:</h3>
+        <ol>
+            <li>English</li>
+            <li>Tamil</li>
+            <li>Hindi</li>
+        </ol>
+      </p>
+      
+      <h3>Softwares Known:</h3>
+      <p>
+        <li>GitHub</li>
+        <li>Pycharam</li>
+        <li>Spider</li>
+        <li>TinkerCad</li>
+        <li>CiscoPacketTracer</li>
+        <li>Simulator</li>
+        <li>Javajs</li>
+        <li>Webstorm</li>
+        <li>Visual Studio Code</li>
+        <li>Insomnia</li>
+        <li>WPS Office</li>
+      </p>
+      <h3>Internship Completed</h3>
+      <h4>Stduio Desino</h4>
+      <p><ul>
+        <li>The main objective of the study was to develop website with HTML,CSS,JAVA SCRIPT,NodeJs,and API Design.</li>
+        <li>Most modern web applications expose APIs that clients can use to interact with the application. A well-designed web API should aim to support:</li>
+        <li>Platform independence. Any client should be able to call the API, regardless of how the API is implemented internally. This requires using standard protocols, and having a mechanism whereby the client and the web service can agree on the format of the data to exchange.</li>
+        <li>Service evolution. The web API should be able to evolve and add functionality independently from client applications. As the API evolves, existing client applications should continue to function without modification. All functionality should be discoverable so that client applications can fully use it.</li>
+        <li>This guidance describes issues that you should consider when designing a web API</li>
+        </ul>
+        </p>
+        <h3>PHOTO GALLERY</h3>
+        <img src="C:\Users\Praveena\Desktop\My photos\Cyber Security.png" width='400' height='400' >
+        <img src="C:\Users\Praveena\Desktop\My photos\Internship.png" width='400' height='400' >
+        <br><a href="https://www.w3schools.com">Career Objective</a> |
+        <a href="https://www.w3schools.com">Technical Skills</a> |
+        <a href="https://www.w3schools.com">Education</a> |
+        <a href="https://www.w3schools.com">Advanced Technology Skills</a> |
+        <a href="https://www.w3schools.com">Internship</a>
+      
+      </body>
+</HTML>
